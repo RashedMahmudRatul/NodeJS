@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AkibSadmanee/First-Node-Server.git"
+    "url": "git+https://github.com/RashedMahmudRatul/NodeJS.git"
   },
   "author": "Akib Sadmanee",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AkibSadmanee/First-Node-Server/issues"
+    "url": "https://github.com/RashedMahmudRatul/NodeJS/issues"
   },
-  "homepage": "https://github.com/AkibSadmanee/First-Node-Server#readme",
+  "homepage": "https://github.com/RashedMahmudRatul/NodeJS#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
